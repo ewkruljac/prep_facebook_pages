@@ -1,0 +1,160 @@
+div {
+//  border: solid 1px #eee;
+}
+
+body{
+  font-family: "Tahoma", sans-serif;
+}
+
+#header{
+  background-color: #3b5998;
+  height: 80px;
+  border-bottom: solid 1px black;
+}
+
+#facebook_logo{
+  color: white;
+  float: left;
+  padding-left: 40px;
+  padding-top: 20px;
+  font-size: 40px;
+  font-family: "Tahoma", sans-serif;
+  vertical-align: middle;
+}
+
+#fb_header_link{
+  text-decoration: none;
+  color: white;
+}
+
+#login_group{
+  float: right;
+  padding-right: 20px;
+  padding-top: 16px;
+  width: 400px;
+  color: white;
+  font-size: 14px;
+}
+
+#email_div{
+
+}
+
+#email_div span{
+  float:right;
+  padding-right: 183px;
+}
+
+#pw_div{
+  display: inline-block;
+
+}
+
+#login_button{
+  background-color: #3b5998;
+  border: solid 1px black;
+  color: white;
+}
+
+#header_link_style{
+  text-decoration: none;
+  color: #8b9dc3;
+  padding-left: 158px;
+  padding_bottom: 4px;
+}
+
+#body{
+  background-color: #dfe3ee;
+  height: 590px;
+  display: inline-block;
+  width: 100%;
+}
+
+#left_container{
+  float: left;
+}
+
+#connect_message{
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 15px;
+  padding-left: 40px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.left_list p{
+  font-size: 14px;
+  vertical-align: middle;
+  float: right;
+  padding-left: 18px;
+  text-align: left;
+}
+
+img{
+  width: 45px;
+  height: 45px;
+  padding-left: 40px;
+  padding-bottom: 30px;
+  line-height: 45px;
+}
+
+#right_container{
+  float: right;
+  padding-left: 20px;
+}
+
+#signup p{
+  margin-bottom: 4px;
+}
+
+
+#new_acct_form{
+  display: inline-block;
+  margin-top: 20px;
+}
+
+#new_acct_form input{
+  color: #ccc;
+  font-size: 22px;
+  border-radius: 6px;
+  bor
+}
+
+.name{
+  width: 264px;
+  margin-bottom: 8px;
+}
+
+.text_field{
+  width: 545px;
+  margin-bottom: 8px;
+}
+
+select{
+  border: 1px solid #CCC;
+  font-size: 12px;
+}
+
+#why_birthday{
+  font-size: 12px;
+  text-decoration: none;
+  color: #8b9dc3;
+}
+
+.legal{
+  font-size: 10px;
+}
+
+.legal a{
+  text-decoration: none;
+}
+
+#signup_button{
+  width: 200px;
+  height: 40px;
+  background-color: green;
+  color: white;
+  border: solid 1px white;
+  margin-bottom: 10px;
+}
