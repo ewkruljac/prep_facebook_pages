@@ -121,14 +121,21 @@ img{
   bor
 }
 
-.name{
-  width: 264px;
+#first_name{
+  width: 254px;
   margin-bottom: 8px;
 }
 
-.text_field{
-  width: 545px;
+#last_name{
+  width: 254px;
   margin-bottom: 8px;
+  margin-right: 20px;
+}
+
+.text_field{
+  width: 525px;
+  margin-bottom: 8px;
+  margin-right: 40px;
 }
 
 select{
@@ -157,4 +164,9 @@ select{
   color: white;
   border: solid 1px white;
   margin-bottom: 10px;
+}
+
+#create_page_link{
+  text-decoration: none;
+  font-size: 12px;
 }
